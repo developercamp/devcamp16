@@ -6,5 +6,5 @@ with other attendees, just paste a link to them, here.
 
 ## Format:
 
-{{Description (keep it firm)
-Link}}
+<pre>Description (keep it firm)
+Link</pre>
