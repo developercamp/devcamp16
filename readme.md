@@ -4,7 +4,7 @@ If you would like to share your notes, repositories, sketches, photos, ... you m
 with other attendees, just paste a link to them, here.
 
 
-Format:
+## Format:
 
-Description (keep it firm)
-Link
+{Description (keep it firm)
+Link}
