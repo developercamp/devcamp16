@@ -1,2 +1,5 @@
 More Information on Developer Camp
 https://developercamp.io
+
+TypeScript primer
+https://github.com/christopherstock/DevCampWzbg_TypeScript
