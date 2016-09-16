@@ -3,3 +3,21 @@ https://developercamp.io
 
 TypeScript/Game Engine Primer
 http://devcamp.christopherstock.de
+
+Kommunikation in der IT
+- https://www.hipchat.com/
+- https://slack.com/
+- Skype
+- IRC
+- https://appear.in/
+- Bus Factor
+- Chaos Monkey People (https://twitter.com/asolove/status/697514682022830080)
+- Mumble
+- Teamspeak
+- Mail
+
+Völkerverständigung
+- Kunden erziehen
+- https://cucumber.io/
+- http://behat.org/
+- Glossary / Gemeinsammes Vokabular mit Domänenexperte / Stackholdern
