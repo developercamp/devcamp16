@@ -25,3 +25,6 @@ Völkerverständigung
 JavaScript PHP-Extensions
 - Slides: https://stesie.github.io/v8js-demo-de/
 
+Notizen zur bash-Session vom Samstag
+- https://github.com/developercamp/devcamp16/blob/master/bash_session.md
+
