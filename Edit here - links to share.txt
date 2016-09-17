@@ -21,3 +21,7 @@ Völkerverständigung
 - https://cucumber.io/
 - http://behat.org/
 - Glossary / Gemeinsammes Vokabular mit Domänenexperte / Stackholdern
+
+JavaScript PHP-Extensions
+- Slides: https://stesie.github.io/v8js-demo-de/
+
