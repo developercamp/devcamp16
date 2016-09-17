@@ -21,3 +21,9 @@ Völkerverständigung
 - https://cucumber.io/
 - http://behat.org/
 - Glossary / Gemeinsammes Vokabular mit Domänenexperte / Stackholdern
+
+Swift Session
+- https://github.com/OliverZiegler/DevCamp2016
+
+Clean Code
+- https://github.com/OliverZiegler/DevCamp2016/blob/master/Clean_Code_Presentation.pdf
