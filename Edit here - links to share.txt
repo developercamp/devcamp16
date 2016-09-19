@@ -2,7 +2,7 @@ More Information on Developer Camp
 https://developercamp.io
 
 TypeScript/Game Engine Primer
-http://devcamp.christopherstock.de
+- http://devcamp.christopherstock.de
 
 Kommunikation in der IT
 - https://www.hipchat.com/
@@ -27,3 +27,9 @@ Swift Session
 
 Clean Code
 - https://github.com/OliverZiegler/DevCamp2016/blob/master/Clean_Code_Presentation.pdf
+
+JavaScript PHP-Extensions
+- Slides: https://stesie.github.io/v8js-demo-de/
+
+Notizen zur bash-Session vom Samstag
+- https://github.com/developercamp/devcamp16/blob/master/bash_session.md
