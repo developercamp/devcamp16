@@ -30,7 +30,7 @@
 * https://twitter.com/ph0enixw0rks (Anton Warkentin)
 * https://twitter.com/pkienthusiast (Frank Thilo Roehl)
 * https://twitter.com/qundg (quäntchen + glück)
-* https://twitter.com/raupach (raupach)
+* https://twitter.com/raupach (Björn Raupach)
 * https://twitter.com/robsblog (Robert Lippert)
 * https://twitter.com/sebastianmetzgr (Sebastian Metzger)
 * https://twitter.com/spfliegel (Sebastian Pfliegel)
